@@ -1,11 +1,9 @@
 class Aritmetica:
-    contador = 0
 
     def __init__(self, operando1, operando2):
         self._operando1 = float(operando1)
         self._operando2 = float(operando2)
 
-        self.contador += 1
 
     def get_operando1(self):
         return self._operando1
