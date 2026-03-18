@@ -1,0 +1,10 @@
+1,Papas,20.5
+2,Gaseosa,25.5
+3,Jugo,10.5
+4,Mani de Sal,35.22
+5,bocadillo,23.32
+6,Chocolatina,2.0
+7,queso,3.6
+8,Caramelo,23.6
+9,Panelita,23.6
+10,Cereza,36.5
